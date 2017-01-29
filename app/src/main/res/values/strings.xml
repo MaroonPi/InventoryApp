@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <string name="editor_activity_title_new_product">Add a Product</string>
+
+    <string name="hint_product_name">Name</string>
+
+    <string name="hint_product_supplier">Supplier</string>
+
+    <string name="hint_product_price">Price(in dollars)</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="add_image">Select image</string>
+
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="item_bought">Bought</string>
+
+    <string name="item_sold">Sold</string>
+
+    <string name="item_buy">Buy</string>
+
+    <string name="item_sell">Sell</string>
+
+    <string name="cancel">Cancel</string>
+</resources>
